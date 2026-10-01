@@ -128,3 +128,7 @@ MIT License - Feel free to modify and use!
 
 Pull requests welcome! Please update documentation for any changes.
 # myVideoGenerator
+
+---
+
+Built by [Adem Batur](https://github.com/adembtr) · License: [MIT](LICENSE)
